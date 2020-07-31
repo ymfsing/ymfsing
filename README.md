@@ -4,7 +4,7 @@
 
 ![ymfsing](https://github-readme-stats.vercel.app/api?username=ymfsing&show_icons=true&hide=commits)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymfsing&hide=html,css,xslt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymfsing&hide=html,css,xslt,makefile)
 
 <!--
 **ymfsing/ymfsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
